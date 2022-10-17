@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @aaron4157
-- 👀 I’m interested in algorithm and script
-- 🌱 I’m currently learning Grails framework, and Javascript (mainly JQuery).
-- 💞 I’m working at Wezoomtek, inc. Our company provides good ERP system for government dipartments. 
-- Any collabortion are welcomed.
+- 🤗🤗 Hi, I’m @aaron4157
+- 🈺 I’m software developer working at Wezoomtek, inc. 
+- 🌱 I’m good at Grails framework, Oracle SQL script, and JQuery.
+
+- 🤝 Any collabortion are welcomed.
 - 📫 MY EMAIL: yuantechang@gmail.com
 
 <!---
