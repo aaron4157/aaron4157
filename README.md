@@ -1,9 +1,26 @@
-- 🤗🤗 Hi, I’m @aaron4157
-- 🈺 I’m software developer working at Wezoomtek, inc. 
-- 🌱 I’m good at Grails framework, Oracle SQL script, and JQuery.
+# Hi, I’m @aaron4157
 
-- 🤝 Any collabortion are welcomed.
-- 📫 MY EMAIL: yuantechang@gmail.com
+## 🈺 Career 
+
+- GJun Java web training 
+- Programmer, Wezoomtek, inc.
+- IT agent, Gseven, inc.
+
+##  ✨ Coding Ability
+
+- Java 
+- Spring framework
+- Thymeleaf template engine
+- Groovy language on Grails framework
+- GSP
+- Oracle SQL, MSSQL
+- JQuery
+- Bootstrap framework
+
+## 🤝 Contact me
+
+- Any collabortion are welcomed.
+- EMAIL: yuantechang@gmail.com
 
 <!---
 aaron4157/aaron4157 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
