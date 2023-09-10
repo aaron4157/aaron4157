@@ -2,9 +2,9 @@
 
 ## 🈺 Career 
 
-- GJun Java web training 
-- Programmer, Wezoomtek, inc.
-- IT agent, Gseven, inc.
+- GJun Java web training (2019-2020)
+- Programmer, Wezoomtek, inc.(2020-2022)
+- IT agent, Gseven, inc. (2022-)
 
 ##  ✨ Coding Ability
 
@@ -19,7 +19,6 @@
 
 ## 🤝 Contact me
 
-- Any collabortion are welcomed.
 - EMAIL: yuantechang@gmail.com
 
 <!---
