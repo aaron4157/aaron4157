@@ -6,16 +6,17 @@
 - Programmer, Wezoomtek, inc.(2020-2022)
 - IT agent, Gseven, inc. (2022-)
 
-##  ✨ Coding Ability
+##  ✨ Coding 
 
 - Java 
-- Spring framework
+- Bootstrap framework 
 - Thymeleaf template engine
-- Groovy language on Grails framework
-- GSP
+- JPA ORM technology
+- MyBatis ORM technology
+- Groovy on Grails framework
+- GSP 
 - Oracle SQL, MSSQL
 - JQuery
-- Bootstrap framework
 
 ## 🤝 Contact me
 
