@@ -4,19 +4,31 @@
 
 - GJun Java web training (2019-2020)
 - Programmer, Wezoomtek, inc.(2020-2022)
-- IT agent, Gseven, inc. (2022-)
+- IT agent, Gseven, inc. (2022-2024)
+- Programmer, System Analytics, TIST, inc. (2024-)
 
 ##  ✨ Coding 
 
-- Java 
-- Bootstrap framework 
-- Thymeleaf template engine
-- JPA ORM technology
-- MyBatis ORM technology
-- Groovy on Grails framework
-- GSP 
-- Oracle SQL, MSSQL
-- JQuery
+- Backend:
+  - Java Springboot
+  - Groovy on Grails framework
+- Frontend:
+  - Javascript
+  - JQuery
+  - Bootstrap framework 
+  - Thymeleaf template engine
+  - Angular
+  - Typescript
+  - JSP
+  - GSP
+- Database ORM:
+  - JPA 
+  - MyBatis 
+- Database 
+  - Postgre SQL
+  - Oracle SQL
+  - MSSQL
+  - DB2
 
 ## 🤝 Contact me
 
